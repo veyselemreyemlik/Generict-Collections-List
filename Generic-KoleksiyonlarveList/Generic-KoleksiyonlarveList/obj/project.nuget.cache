@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSwDg3I7qo//hOK2K+xnCq6VCe684Sh0CK2VV0UhrMrXirzOI0v+d2CiS0FHEiEZ/nrvKheO/eq64Ix+pYBVkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\Lab Uygulamaları\\Generic-KoleksiyonlarveList\\Generic-KoleksiyonlarveList\\Generic-KoleksiyonlarveList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

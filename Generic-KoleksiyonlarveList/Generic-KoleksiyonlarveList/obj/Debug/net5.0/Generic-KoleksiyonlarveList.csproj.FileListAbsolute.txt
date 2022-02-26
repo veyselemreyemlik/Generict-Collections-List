@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\bin\Debug\net5.0\Generic-KoleksiyonlarveList.exe
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\bin\Debug\net5.0\Generic-KoleksiyonlarveList.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\bin\Debug\net5.0\Generic-KoleksiyonlarveList.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\bin\Debug\net5.0\Generic-KoleksiyonlarveList.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\bin\Debug\net5.0\Generic-KoleksiyonlarveList.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\bin\Debug\net5.0\ref\Generic-KoleksiyonlarveList.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\bin\Debug\net5.0\Generic-KoleksiyonlarveList.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\ref\Generic-KoleksiyonlarveList.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Generic-KoleksiyonlarveList\Generic-KoleksiyonlarveList\obj\Debug\net5.0\Generic-KoleksiyonlarveList.genruntimeconfig.cache
